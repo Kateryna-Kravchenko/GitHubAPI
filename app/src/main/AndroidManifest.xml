@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.katerynakravchenko.githubapi">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".GitSearchApp"
+        android:allowBackup="true"
+        android:icon="@drawable/launch"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity android:name=".searchmain.ui.SearchMainActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".detailsscreen.ui.UserMainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".launchscreen.LaunchActivity"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

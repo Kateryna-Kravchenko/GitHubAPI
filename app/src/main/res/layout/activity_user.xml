@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ll_progres"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="gone"
+        android:orientation="vertical">
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    <!--<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/ns_details_user"-->
+        <!--android:scrollbars="vertical">-->
+
+        <!--<RelativeLayout-->
+
+            <!--android:layout_width="match_parent"-->
+            <!--android:paddingTop="24dp"-->
+            <!--android:layout_height="match_parent">-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/img_user"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="240dp"-->
+                <!--android:layout_alignParentTop="true"-->
+                <!--android:adjustViewBounds="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingBottom="18dp"-->
+                <!--android:scaleType="fitCenter" />-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_user_name"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_gravity="center_horizontal"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_below="@+id/img_user"-->
+                <!--android:paddingBottom="12dp"-->
+                <!--android:paddingLeft="28dp"-->
+                <!--android:paddingRight="28dp"-->
+                <!--android:textSize="23sp" />-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_email"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_below="@+id/tv_user_name"-->
+                <!--android:autoLink="email"-->
+                <!--android:paddingBottom="8dp"-->
+                <!--android:paddingLeft="28dp"-->
+                <!--android:paddingRight="28dp"-->
+                <!--android:textSize="18sp" />-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_repos_url"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:autoLink="web"-->
+                <!--android:layout_below="@+id/tv_email"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingBottom="6dp"-->
+                <!--android:paddingLeft="28dp"-->
+                <!--android:paddingRight="28dp"-->
+                <!--android:textSize="18sp" />-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_bio"-->
+                <!--android:layout_below="@+id/tv_repos_url"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:paddingBottom="6dp"-->
+                <!--android:paddingLeft="28dp"-->
+                <!--android:paddingRight="28dp"-->
+                <!--android:textSize="20sp" />-->
+
+
+            <WebView
+                android:id="@+id/wv_detals"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </WebView>
+
+
+        <!--</RelativeLayout>-->
+
+
+
+    <!--</android.support.v4.widget.NestedScrollView>-->
+
+
+</LinearLayout>

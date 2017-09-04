@@ -1,0 +1,480 @@
+<resources>
+
+    <string name="app_name">GIT</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!--items for menu2 -->
+    <string name="temperature">Temperature:</string>
+        
+    <string name="download_error">Download error</string>
+
+    <string name="was_read">You have read this message.</string>
+        
+    <string name="day">d.</string>
+
+    <string name="unanswered_questions">Number of unanswered questions -</string>
+    <string name="cancle">CANCEL</string>
+    <string name="go">GO</string>
+    <string name="exit_alert">EXIT</string>
+
+    <string name="call_number">Call the number</string>
+    <string name="power_point">PowerPoint Application</string>
+    <string name="power_point_description">In order to view this presentation, you need to install on the device an application that reads the .ppt files.</string>
+    <string name="new_notification">You have a new notification</string>
+
+    <string name="speed">Wind:</string>
+    <string name="not_answer_question">You did not answer this question</string>
+    <string name="FACEBOOK_URL">"https://www.facebook.com/compot.mobi"</string>
+    <string name="instagram">"http://instagram.com/_u/compot.mobi"</string>
+    <string name="FACEBOOK_PAGE_ID">"compot.mobi"</string>
+        
+    <string name="ppt">View a PowerPoint presentation</string>
+    <string name="stop_load_description">If you exit, the download will be canceled. Are you sure?</string>
+
+    <string name="open">Open</string>
+    <string name="ppt_description">The presentation will be opened in a third-party application that reads .ppt files. If you do not have such an application on your device, install it. Opening a presentation can take a lot of time and requires an Internet connection.</string>
+    <string name="stop_load">Cancel upload</string>
+
+    <string name="morning">Morning</string>
+        
+    <string name="m_s">m/s</string>
+
+    <string name="dinner">Day</string>
+        
+    <string name="evning">Evening</string>
+        
+    <string name="profile">Profile</string>
+        
+    <string name="no_del_not_read">To delete a message, you need to confirm reading</string>
+        
+    <string name="login_hint">Login</string>
+        
+    <string name="password_hint">Password</string>
+    <string name="members">Participants</string>
+             
+    <string name="loading_data">Loading data from the server ...</string>
+    <string name="loading">Loading</string>
+        
+    <string name="authorization_error">The administrator has changed your authorization. Enter the new one.</string>
+    <string name="load_success">Data successfully updated</string>
+
+    <string name="programm">Program</string>
+        
+    <string name="info">Useful Information</string>
+        
+    <string name="voting">Voting</string>
+        
+    <string name="ok">OK</string>
+    <string name="io_error">Data transmission error</string>
+        
+    <string name="ppt_load_text">The presentation is loading.
+     This can take a long time.
+     Do not block or turn off your device.</string>
+
+    <string name="guest_not_available">Sorry, guest logon is not available.</string>
+
+    <string name="incorrect_data">You entered incorrect data</string>
+
+    <string name="sochi">Nizhny Novgorod</string>
+        
+    <string name="attraction">Where to go?</string>
+        
+    <string name="contacts">Contacts</string>
+    <string name="materials">Materials</string>
+    <string name="contact_us">Feedback</string>
+        
+    <string name="transactions">Transfers</string>
+        
+    <string name="geoProf">Weather</string>
+        
+    <string name="chat">Chat</string>
+        
+    <string name="photo">Photo</string>
+        
+    <string name="forum">WEF</string>
+        
+    <string name="answer_options">answer options</string>
+    <string name="select_up_to">Select up to</string>
+
+    <string name="hint1">
+    </string>
+
+        
+    <string name="only_my_program">Only my events</string>
+
+    <string name="I_go">I am going to this event</string>
+    <string name="error_internet">There were problems with the Internet</string>
+
+    <string name="I_go_helper">Click if you will not participate in the event</string>
+    <string name="I_maybe_go">I will go to the event</string>
+        
+    <string name="I_maybe_go_helper">Click if you will go to the event</string>
+        
+    <string name="now_answer">You did not write a question</string>
+        
+    <string name="enter_mail_login">Enter e-mail</string>
+    <string name="mail_login_text">Enter your valid e-mail so we will send you a new password.</string>
+    <string name="foget_pass">Forgot your password?</string>
+
+    <string name="answer">Answer</string>
+    <string name="next_login">NEXT</string>
+    <string name="not_determined">Не определена</string>
+        
+    <string name="not_question">Write your question</string>
+        
+    <string name="list_of_sections">List of sections</string>
+
+    <string name="successful_quest_to_spicker">Your message has been sent, thank you for your participation!
+    </string>
+        
+    <string name="error_quest_to_spicker">Problems with the Internet, the application will try to send data
+    </string>
+
+        
+    <string name="greating_user">International Paper welcomes you!</string>
+
+        
+    <string name="custom_answer_text">Enter your answer</string>
+
+        
+    <string name="greating_user_campus">We are glad to greet you!</string>
+        
+    <string name="player_error">Error initializing YouTube player</string>
+
+        
+    <string name="titleSpickersInProgrammItem">Speakers:</string>
+        
+    <string name="titleMaterialsInProgrammItem">Materials:</string>
+
+
+        
+    <string name="not_load_material">Materials were not uploaded</string>
+        
+    <string name="not_load_programm">The program data has not been downloaded</string>
+        
+    <string name="not_load_section">Section data has not been uploaded</string>
+
+        
+    <string name="not_voting_here">No active vote</string>
+        
+    <string name="sending_data_to_server">Data is sent to the server</string>
+
+        
+        
+    <string name="offer_text">Public Offer Contract</string>
+        
+
+    <string name="сustom_quest_text">Write a question</string>
+    <string name="сustom_message_text">Write a message</string>
+        
+    <string name="title_text_materials">Here presentations will be available for general review
+    </string>
+
+
+        
+    <string name="of">of</string>
+    <string name="invalid_email">Invalid email address</string>
+        
+    <string name="no_data">No data</string>
+    <string name="no_gallery">No active albums</string>
+        
+    <string name="guest_enter">Guest Login</string>
+        
+    <string name="text_company_header">You have the ability to add your photo.
+                To do this, select the appropriate section in the sidebar</string>
+        
+    <string name="Day1">July 18</string>
+        
+    <string name="Day2">July 19</string>
+
+        
+    <string name="previous_quest">Previous</string>
+
+
+        
+    <string name="Anc1">Questionnaire 1</string>
+        
+    <string name="Anc3">Question 3</string>
+    <string name="Anc2">Question 2</string>
+
+        
+    <string name="Sochi">Sochi</string>
+        
+    <string name="RedSquare">Red glade</string>
+        
+    <string name="restaurant">Restaurant Guide</string>
+
+        
+    <string name="general">Hotel</string>
+        
+    <string name="emergency">Emergency numbers</string>
+        
+    <string name="transfer">Transfer</string>
+        
+    <string name="useful">Near the hotel</string>
+        
+    <string name="week">In the hotel</string>
+
+        
+    <string name="error_invalid_login">Error</string>
+        
+    <string name="no_internet">No connection to the Internet</string>
+        
+    <string name="file_error">Invalid file format</string>
+
+        
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBDVMrDBucFDE8DQsvtnjGmAzTWDvqKJWg</string>
+
+    <string name="search_edit_members">Find a participant</string>
+        
+    <string name="search_members">Search for the participant:</string>
+        
+    <string name="time">Time</string>
+        
+    <string name="EVENT">Event</string>
+        
+    <string name="city">Useful Information</string>
+        
+    <string name="login">Login</string>
+        
+    <string name="mat1">Materials 1</string>
+        
+    <string name="mat2">Materials 2</string>
+        
+    <string name="settings">Settings</string>
+        
+    <string name="push_history">Notifications</string>
+        
+    <string name="membersInchat">Interlocutors</string>
+        
+    <string name="allMembers">All</string>
+        
+    <string name="language_selection">Language select</string>
+    <string name="ru">Русский</string>
+    <string name="en">English</string>
+
+    <string name="send">Send</string>
+    <string name="no_user_with_this_data">There is no user with exact data.</string>
+    <string name="download_application">Download application</string>
+
+    <string name="server_error">Server error</string>
+        
+    <string name="not_answer">You did not answer the question</string>
+        
+    <string name="question">Question</string>
+        
+    <string name="error_url">Idle link to PDF</string>
+        
+    <string name="name_about">Kirillova Tatyana</string>
+        
+    <string name="phone_about">+ 7 916 177 41 21</string>
+        
+    <string name="post_about">Ad Flat CEO</string>
+        
+    <string name="mail_about">tkirillova@btl-celebrities.ru</string>
+        
+    <string name="no_events">Event list not received</string>
+        
+    <string name="about">About us</string>
+        
+    <string name="hint_in_one_question">Enter your answer</string>
+        
+    <string name="hint_in_spicker">Enter your question</string>
+        
+    <string name="developers">Developer Contacts</string>
+        
+    <string name="exit_a">Sign out of your account</string>
+        
+    <string name="message_edit_text_hint">Message text</string>
+        
+    <string name="exit">Exit</string>
+        
+    <string name="AboutTitle">Universal information aggregator - mobile application</string>
+        
+    <string name="AboutTitle2">Communication Spot ™</string>
+        
+    <string name="StarRatingProgramText">Enter your rating</string>
+        
+    <string name="no_messages">No posts</string>
+        
+    <string name="no_section">No sections</string>
+        
+    <string name="spicker_list">Click to select another member</string>
+        
+    <string name="no_ratings">No ratings available</string>
+        
+    <string name="no_question">No vote available</string>
+        
+    <string name="image_picker">Add your own photo</string>
+        
+    <string name="send_photo">Add</string>
+        
+    <string name="photo_name">Photo title</string>
+        
+    <string name="tab">Section</string>
+        
+    <string name="photo_name_enter">Enter photo title</string>
+        
+    <string name="no_text_in_edit_photo">Enter the name of the photo</string>
+        
+    <string name="no_photo">There are no photos in the section!</string>
+        
+    <string name="no_photo_text2">You can add your photo by clicking </string>
+        
+    <string name="no_photo_add">"Add your photo"</string>
+        
+    <string name="down">at the bottom</string>
+        
+    <string name="description_push_history">Description</string>
+        
+    <string name="title_push_history">Notifications</string>
+        
+    <string name="push_del">Message was deleted</string>
+        
+    <string name="undo">Cancel</string>
+
+        
+    <string name="copyright">All rights reserved, entity Number: C3897990</string>
+        
+    <string name="copy_to_buffer">Text copied to clipboard</string>
+
+        
+    <string name="loren_ipsum">Lorem ipsum dolor sit amet, vis laboramus scripserit ea, mutat
+        qualisque mei ex. Vero nulla lucilius has ex. Mel nisl simul in, ullum quodsi pri no. Ignota
+        prompta te sit, no aliquam mnesarchum mea. Nobis adversarium ne sea, eros reque debet in
+        mei, visat alia natum.
+
+                Nec magna phaedrum ut, eu nec illud meliore. Nec in malis timeam, dicta feugiat est
+        cu. Nihil utinam equidem no eos, eu illum tritani gubergren eam. Eu qui duis ferri putent.
+        Mutat autem paulo ex mel.
+
+                Affer partiendo no cum, ius vero posse ut. Ne nullam iisque mei, vocibus accommodare
+        eu vix. Sea fuisset fierent facilisi eu, ea mundi meliore blandit mea. Vel dolore aperiam
+        insolens eu, ullamcorper voluptatibus vix ne, eu mea dicat scripserit.
+            
+    </string>
+
+
+        
+    <string name="allreadyAppload">	Downloading a new version of the application has already started
+    </string>
+
+        
+    <string name="upload_new_version">Do you want to download the latest version?</string>
+        
+    <string name="have_not_new_version">No new version</string>
+
+        
+    <string name="error_get_apk_url">An error has occurred. Try again later</string>
+        
+    <string name="getUpdates">Get updates</string>
+        
+    <string name="language">Language</string>
+
+    <string name="enter_name">Enter your name</string>
+        
+    <string name="name">Name</string>
+        
+    <string name="enter_patronymic">Enter middle name</string>
+        
+    <string name="importent_push">This is an important message, you need to confirm that you read it.</string>
+
+    <string name="patronymic">middle name</string>
+        
+    <string name="enter_surname">Enter last name</string>
+        
+    <string name="surname">last name</string>
+        
+    <string name="enter_phone">Enter phone number</string>
+        
+    <string name="phone">Phone number</string>
+        
+    <string name="enter_mail">Enter your E-Mail</string>
+        
+    <string name="mail">E-Mail</string>
+        
+    <string name="enter_bio">Enter a short biography</string>
+        
+    <string name="bio">Biography</string>
+        
+    <string name="save_change">Save Changes</string>
+        
+    <string name="format_error">Invalid file format</string>
+        
+    <string name="no_text_in_edet_text">This field must be filled in</string>
+        
+    <string name="limitError">Limit exceeded</string>
+        
+    <string name="event_timer">Before the event starts, there are:</string>
+        
+    <string name="crop_image_menu_crop">Upload</string>
+        
+    <string name="Qr_open">Open a personal QR code</string>
+        
+    <string name="Qr">This qr-code can be used as your business card</string>
+        
+    <string name="Qr_scaner">QR Code Scanner</string>
+        
+    <string name="search">Search</string>
+        
+    <string name="i_read">I confirm that I have read</string>
+
+    <string name="calendar">Calendar of events</string>
+        
+    <string name="count_of_found">​​Found values:</string>
+        
+    <string name="previous_requests">Your previous requests:</string>
+        
+    <string name="offert">Public Offer Agreement</string>
+        
+    <string name="push_switch">Push Notifications</string>
+        
+    <string name="no_mag_text1">No logs to view!</string>
+        
+    <string name="pdf_error">Error loading file</string>
+        
+    <string name="next">Next</string>
+        
+    <string name="Main">To the main page</string>
+        
+    <string name="sps">Thank you for your answers</string>
+        
+    <string name="beack_sps">You can return to the main application screen using the button below
+    </string>
+        
+    <string name="no_mag_text2">As soon as they appear, you will be able to view in this section.</string>
+        
+    <string name="sps3">You have already answered the questions.</string>
+        
+    <string name="sps4">The results are processed.</string>
+        
+    <string name="messege_save">Message is saved</string>
+        
+    <string name="error_autorisation">You entered an incorrect login or password.</string>
+        
+    <string name="error_server">Connection to server is broken</string>
+        
+    <string name="search_text_in_plug_first">Search by users.</string>
+        
+    <string name="search_text_in_plug_second">Start the search by entering your request in the box above.
+    </string>
+        
+    <string name="not_found">​​Nothing found</string>
+    <string name="app_version">Version</string>
+        
+    <string name="try_again">
+Your search returns no results.  Check if the text you entered is correct or try other options.
+    </string>
+        
+    <string name="program_subscribe">Registration is finished</string>
+        
+    <string name="font_size">Font size</string>
+        
+    <string name="question_member_my">It is you. Questions that will be asked to you by the users of the application will come to your e-mail.
+    </string>
+
+
+</resources>
